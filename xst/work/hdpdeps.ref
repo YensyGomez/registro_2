@@ -1,0 +1,6 @@
+V3 3
+FL /home/yengomez/registro_2/registro_2.vhd 2016/09/05.19:14:57 P.20131013
+EN work/registro_2 1473121047 FL /home/yengomez/registro_2/registro_2.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/registro_2/Behavioral 1473121048 \
+      FL /home/yengomez/registro_2/registro_2.vhd EN work/registro_2 1473121047
